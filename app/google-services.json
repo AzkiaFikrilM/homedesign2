@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "786945236424",
+    "project_id": "simfood",
+    "storage_bucket": "simfood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786945236424:android:cf02f7f8a124a1ec27b4fd",
+        "android_client_info": {
+          "package_name": "com.appsnipp.homedesign2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786945236424-s6gr6ei4tnppge2cqs007ab2jgk4mgof.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnipp.homedesign2",
+            "certificate_hash": "e8c85683775fae54e20cdf4cafc2423e5c9a4731"
+          }
+        },
+        {
+          "client_id": "786945236424-g82o080srvh7acfclqebhb3bt07hq74h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAB7Iu8wm3ucDxdfsOr8MnJRjbgixCZZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786945236424-g82o080srvh7acfclqebhb3bt07hq74h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
